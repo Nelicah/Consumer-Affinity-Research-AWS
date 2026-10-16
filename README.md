@@ -50,10 +50,3 @@ Breve descripción de los hallazgos principales (puedes completarlo luego).
 Automatización del pipeline de datos
 Integración con más fuentes de datos
 Modelos de machine learning más avanzados
-
-## 👤 Autor
-
-### Tareas
-
-- [ ] Base de datos
-- [ ] Formulario web
